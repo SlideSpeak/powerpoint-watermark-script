@@ -2,6 +2,8 @@
 
 A Python script to automatically add watermarks to all slides in PowerPoint presentations. Supports both standard positioning and ribbon-style watermarks that span across slides.
 
+Website: [Add Watermark to PowerPoint](https://slidespeak.co/free-tools/add-watermark-to-powerpoint/)
+
 ## ✨ Features
 
 - **Multiple positioning options**: Standard corners, center, or full ribbon styles
